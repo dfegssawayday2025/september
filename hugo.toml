@@ -1,0 +1,73 @@
+baseurl = "http://www.example.com"
+title = "Stats Away Day 2025"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "fred"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  #author = "hop.statistics@education.gov.uk"
+  info = "Statistics Away Day - 11th Sept 2025"
+  description = "Statistics Away Day 2025"
+  avatarurl = "images/Frederick/save-the-date-frederick.png"
+
+  faviconSVG = "/images/Frederick/plain frederick 2 flippers.png"
+  favicon_32 = "/images/Frederick/plain frederick 2 flippers.png"
+  favicon_16 = "/images/Frederick/plain frederick 2 flippers.png"
+
+  since = 2020
+
+  enableTwemoji = false
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Agenda"
+  weight = 2
+  url  = "agenda/"
+[[menu.main]]
+  name = "Food"
+  weight = 3
+  url = "food/"
+[[menu.main]]
+  name = "Venue"
+  weight = 4
+  url  = "venue/"
+[[menu.main]]
+  name = "Sheffield"
+  weight = 5
+  url  = "sheffield/"
+[[menu.main]]
+  name = "Escape room"
+  weight = 6
+  url  = "escape-room/"
