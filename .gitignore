@@ -1,0 +1,29 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Dependency directories
+/node_modules/
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Hugo files
+hugo_stats.json
+
+# IDE/editor files
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
+*.code-workspace
+
+# Log files
+*.log
+
+# Backup files
+*~
