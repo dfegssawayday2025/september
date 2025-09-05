@@ -4,7 +4,7 @@ title = "About"
 
 Welcome to our website containing lots of information on the 2025 DfE Statistics Away Day. We're extremely excited to welcome you to Sheffield for a jam packed day of statistics, innovation and learning!
 
-<div style="background-color:#f5d142;color:black;padding:2%;text-align:center;border-radius: 20px;">Lunch will not be supplied! Please see <a href="../food">the food page</a> for more information, including details on claiming expenses.</div>
+<div style="background-color:#9C1111;color:white;padding:2%;text-align:center;border-radius: 20px;">Lunch will not be supplied! Please see <a href="../food">the food page</a> for more information, including details on claiming expenses.</div>
 
 ## Why Attend the GSS Away Day?
 
@@ -18,7 +18,7 @@ Welcome to our website containing lots of information on the 2025 DfE Statistics
 
 <br/>
 
-<div style="background-color:#f5d142;color:black;padding:2%;text-align:center;border-radius: 20px;">Want to know how to get to the venue? Take a look at <a href="../venue">the venue page</a> for more information, including details walking routes and public transport.</div>
+<div style="background-color:#9C1111;color:white;padding:2%;text-align:center;border-radius: 20px;">Want to know how to get to the venue? Take a look at <a href="../venue">the venue page</a> for more information, including details walking routes and public transport.</div>
 
 ## Questions
 

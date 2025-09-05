@@ -138,6 +138,6 @@ title = "Sheffield"
 
 ## Supermarkets
 
-<img src="./../images/Frederick/Frederick-shopping.png" onmouseover="this.src='./../images/Frederick/frederick-trolley.png';" onmouseout="this.src='./../images/Frederick/frederick-shopping.png';" alt="frederick-shopping" width="100%"/>
+<img src="./../images/Frederick/Frederick-shopping.png" onmouseover="this.src='./../images/Frederick/frederick-trolley.png';" onmouseout="this.src='./../images/Frederick/frederick-trolley.png';" alt="frederick-shopping" width="100%" />
 
 [Back to Map](#map)
