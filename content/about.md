@@ -2,7 +2,9 @@
 title = "About"
 +++
 
-We're extremely excited to welcome you to Sheffield for a jam packed day of statistics!
+Welcome to our website containing lots of information on the 2025 DfE Statistics Away Day. We're extremely excited to welcome you to Sheffield for a jam packed day of statistics, innovation and learning!
+
+<div style="background-color:#f5d142;color:black;padding:2%;text-align:center;border-radius: 20px;">Lunch will not be supplied! Please see <a href="../food">the food page</a> for more information, including details on claiming expenses.</div>
 
 ## Why Attend the GSS Away Day?
 
@@ -13,6 +15,10 @@ We're extremely excited to welcome you to Sheffield for a jam packed day of stat
 > I encourage everyone to take part, you’ll leave with new ideas, fresh perspectives, and a stronger sense of community within the GSS.
 >
 > Ian Knowles, Chief Analyst
+
+<br/>
+
+<div style="background-color:#f5d142;color:black;padding:2%;text-align:center;border-radius: 20px;">Want to know how to get to the venue? Take a look at <a href="../venue">the venue page</a> for more information, including details walking routes and public transport.</div>
 
 ## Questions
 
