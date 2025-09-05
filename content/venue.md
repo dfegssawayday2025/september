@@ -4,9 +4,9 @@ title = "Venue"
 
 ## The Wave
 
-<p align="center">
-    <img src="/images/Frederick/surfing_frederick.png" alt="Surfing Frederick" style="width: 40%; display: block; margin: 0 auto;">
-</p>
+<div align="center">
+    <img src="../images/Frederick/surfing_frederick.png" alt="Surfing Frederick" style="width: 40%; display: block; margin: 0 auto;">
+</div>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
     <iframe 

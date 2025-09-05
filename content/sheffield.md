@@ -6,65 +6,70 @@ title = "Sheffield"
 </div>
 
 ## Map
-
-<img src="./../images/Site/Sheffield/Sheffield.png" alt="Sheffield" width="100%" usemap="#place_map">
-
+<img src="./../images/Site/Sheffield/Sheffield.png" alt="Sheffield" width="900" height="660" usemap="#place_map">
 <map name="place_map">
-    <area shape="circle" coords="244,330,24" alt="Weston Park" href="#Weston-Park">
-    <area shape="circle" coords="209,339,5" alt="Look Up Weston Park" href="#Look-Up">
-    <area shape="circle" coords="166,289,6" alt="Dam House" href="/Food#Dam-House">
-    <area shape="circle" coords="119,364,24" alt="The Wave" href="#The-Wave">
-    <area shape="circle" coords="121,366,6" alt="The Wave Shop" href="/Food#The-Wave-Shop">
-    <area shape="circle" coords="40,468,6" alt="The Nottingham" href="/Food#The-Nottingham">
-    <area shape="circle" coords="1,500,6" alt="The Steel Cauldron & Costa" href="/Food#The-Steel-Cauldron">
-    <area shape="circle" coords="8,540,6" alt="Thyme Cafe" href="/Food#Thyme-Cafe">
-    <area shape="circle" coords="65,724,24" alt="Botanical Gardens" href="#Botanical-Gardens">
-    <area shape="circle" coords="950,215,25" alt="Victoria Quays" href="#Victoria-Quays">
-    <area shape="circle" coords="850,390,35" alt="Coach Station" href="#Coach-Station">
-    <area shape="circle" coords="895,485,34" alt="Train Station" href="#Train-Station">
-    <area shape="circle" coords="883,458,14" alt="Sheffield Tap" href="/Food#Sheffield-Tap">
-    <area shape="circle" coords="788,278,6" alt="The Dove & Rainbow & The Banker's Draft" href="/Food#Dove-Rainbow-Banker">
-    <area shape="circle" coords="780,280,6" alt="Ning's Thai Street Food" href="/Food#Thai-Street-Food">
-    <area shape="circle" coords="735,277,15" alt="Sheffield Cathedral" href="#Sheffield-Cathedral">
-    <area shape="circle" coords="720,330,6" alt="Terrace Goods" href="/Food#Terrace-Goods">
-    <area shape="circle" coords="717,347,8" alt="Sheffield Plate" href="/Food#Sheffield-Plate">
-    <area shape="circle" coords="705,332,6" alt="All Bar One & The Museum" href="/Food#The-Museum-All-Bar-One">
-    <area shape="circle" coords="702,345,6" alt="Humpit - The Hummus & Pita Bar" href="/Food#Humpit-Hummus">
-    <area shape="circle" coords="809,474,6" alt="The Globe" href="/Food#The-Globe">
-    <area shape="circle" coords="815,440,5" alt="Look Up Owen Building" href="#Look-Up">
-    <area shape="circle" coords="788,400,5" alt="Look Up Grave's Gallery" href="#Look-Up">
-    <area shape="circle" coords="766,378,6" alt="Head of Steam" href="/Food#Head-of-Steam">
-    <area shape="circle" coords="757,408,15" alt="The Winter Garden" href="#The-Winter-Garden">
-    <area shape="circle" coords="731,410,5" alt="Peace Gardens" href="#Peace-Gardens">
-    <area shape="circle" coords="741,545,6" alt="The Street Food Chef" href="/Food#Street-Food-Chef">
-    <area shape="circle" coords="748,641,6" alt="Triple Point Brewery" href="/Food#Triple-Point-Brewery">
-    <area shape="circle" coords="598,23,6" alt="Church - Temple of Fun" href="/Food#Church-Temple-of-Fun">
-    <area shape="circle" coords="673,58,6" alt="The Fat Cat" href="/Food#The-Fat-Cat">
-    <area shape="circle" coords="365,340,6" alt="University Arms" href="/Food#University-Arms">
-    <area shape="circle" coords="330,387,6" alt="Bar One" href="/Food#Bar-One">
-    <area shape="circle" coords="439,347,5" alt="Look Up The Diamond" href="#Look-Up">
-    <area shape="circle" coords="500,370,6" alt="The Red Deer" href="/Food#The-Red-Deer">
-    <area shape="circle" coords="616,321,6" alt="Dog & Partridge" href="/Food#Dog-and-Partridge">
-    <area shape="circle" coords="582,412,6" alt="Various Restaurants - Sushi / Fro-yo / Breakfast" href="/Food#Sushi-Fro-yo-Breakfast">
-    <area shape="circle" coords="571,415,6" alt="Frog & Parrot" href="/Food#Frog-and-Parrot">
-    <area shape="circle" coords="663,420,6" alt="The Benjamin Huntsman" href="/Food#The-Benjamin-Huntsman">
-    <area shape="circle" coords="661,442,8" alt="Cambridge Street Collective" href="/Food#Cambridge-Street-Collective">
-    <area shape="circle" coords="643,470,6" alt="The Botanist" href="/Food#The-Botanist">
-    <area shape="circle" coords="673,405,5" alt="Look Up Old Cole Brother's Store" href="#Look-Up">
-</map>
+<area shape="circle" coords="208,290,30" alt="Weston Park" href="#weston-park">
+<area shape="circle" coords="177,298,6" alt="Look Up Weston Park" href="#sheffields-virtual-art">
+<area shape="circle" coords="140,254,6" alt="Dam House" href="/food/#dam-house">
+<area shape="circle" coords="101,320,30" alt="The Wave" href="#the-wave">
+<area shape="circle" coords="103,322,6" alt="The Wave Shop" href="/food/#the-wave-shop">
+
+<area shape="circle" coords="33,410,6" alt="The Nottingham" href="/food/#the-nottingham">
+<area shape="circle" coords="0,438,6" alt="The Steel Cauldron & Costa" href="/food/#the-steel-cauldron">
+<area shape="circle" coords="6,474,6" alt="Thyme Cafe" href="/food/#thyme-cafe">
+
+<area shape="circle" coords="55,637,30" alt="Botanical Gardens" href="#botanical-gardens">
+
+<area shape="circle" coords="807,189,30" alt="Victoria Quays" href="#victoria-quays">
+<area shape="circle" coords="722,343,43" alt="Coach Station" href="#coach-station">
+<area shape="circle" coords="760,427,41" alt="Train Station" href="#train-station">
+<area shape="circle" coords="751,403,18" alt="Sheffield Tap" href="/food/#sheffield-tap">
+
+<area shape="circle" coords="670,245,6" alt="The Dove & Rainbow & The Banker's Draft" href="/food/#dove-rainbow-banker">
+<area shape="circle" coords="662,247,6" alt="Ning's Thai Street Food" href="/food/#thai-street-food">
+<area shape="circle" coords="626,243,18" alt="Sheffield Cathedral" href="#sheffield-cathedral">
+<area shape="circle" coords="612,290,6" alt="Terrace Goods" href="/food/#terrace-goods">
+<area shape="circle" coords="609,305,10" alt="Sheffield Plate" href="/food/#sheffield-plate">
+<area shape="circle" coords="601,292,6" alt="All Bar One & The Museum" href="/food/#the-museum-all-bar-one">
+<area shape="circle" coords="597,303,6" alt="Humpit - The Hummus & Pita Bar" href="/food/#humpit-hummus">
+
+<area shape="circle" coords="687,416,6" alt="The Globe" href="/food/#the-globe">
+<area shape="circle" coords="693,386,6" alt="Look Up Owen Building" href="#sheffields-virtual-art">
+<area shape="circle" coords="670,351,6" alt="Look Up Grave's Gallery" href="#sheffields-virtual-art">
+<area shape="circle" coords="652,332,6" alt="Head of Steam" href="/food/#head-of-steam">
+<area shape="circle" coords="644,359,18" alt="The Winter Garden" href="#the-winter-garden">
+<area shape="circle" coords="622,361,6" alt="Peace Gardens" href="#peace-gardens">
+<area shape="circle" coords="630,480,6" alt="The Street Food Chef" href="/food/#street-food-chef">
+<area shape="circle" coords="635,565,6" alt="Triple Point Brewery" href="/food/#triple-point-brewery">
+
+<area shape="circle" coords="508,20,6" alt="Church - Temple of Fun" href="/food/#church-temple-of-fun">
+<area shape="circle" coords="572,51,6" alt="The Fat Cat" href="/food/#the-fat-cat">
+
+<area shape="circle" coords="311,300,6" alt="University Arms" href="/food/#university-arms">
+<area shape="circle" coords="280,341,6" alt="Bar One" href="/food/#bar-one">
+<area shape="circle" coords="373,306,6" alt="Look Up The Diamond" href="#sheffields-virtual-art">
+<area shape="circle" coords="425,327,6" alt="The Red Deer" href="/food/#the-red-deer">
+
+<area shape="circle" coords="523,284,6" alt="Dog & Partridge" href="/food/#dog-and-partridge">
+<area shape="circle" coords="494,365,6" alt="Various Restaurants - Sushi / Fro-yo / Breakfast" href="/food/#sushi-fro-yo-breakfast">
+<area shape="circle" coords="485,368,6" alt="Frog & Parrot" href="/food/#frog-and-parrot">
+<area shape="circle" coords="564,372,6" alt="The Benjamin Huntsman" href="/food/#the-benjamin-huntsman">
+<area shape="circle" coords="561,391,10" alt="Cambridge Street Collective" href="/food/#cambridge-street-collective">
+<area shape="circle" coords="546,416,6" alt="The Botanist" href="/food/#the-botanist">
+<area shape="circle" coords="572,359,6" alt="Look Up Old Cole Brother's Store" href="#sheffields-virtual-art">
 
 <br>
 
-<img src="./../images/Site/Sheffield/Sheffield-Key.png" alt="Sheffield-Key" width="1000" usemap="#key_map">
-
-<map name="key_map">
-    <area shape="circle" coords="90,90,80" alt="Key Places" href="#Key-Places">
-    <area shape="circle" coords="250,90,80" alt="Key Places" href="#Sites">
-    <area shape="circle" coords="420,90,80" alt="Key Places" href="#Look-Up">
-    <area shape="circle" coords="580,90,80" alt="Key Places" href="/food#Food">
-    <area shape="circle" coords="750,90,80" alt="Key Places" href="/food#Pubs/Bars">
-    <area shape="circle" coords="910,90,80" alt="Key Places" href="#Supermarkets">
+<img src="./../images/Site/Sheffield/Sheffield-Key.png" alt="Sheffield-Key" usemap="#key_map" id="sheffield-key-map" width="1000">
+<map name="key_map" id="key_map">
+    <area shape="circle" coords="80,105,70" href="#key-places" alt="Key Places" title="Key Places">
+    <area shape="circle" coords="230,105,70" href="#things-to-see" alt="Sites" title="Sites">
+    <area shape="circle" coords="380,105,70" href="#sheffields-virtual-art" alt="Look Up" title="Look Up">
+    <area shape="circle" coords="530,105,70" href="/food" alt="Food" title="Food">
+    <area shape="circle" coords="680,105,70" href="/food/#pubs-and-bars" alt="Pubs" title="Pubs">
+    <area shape="circle" coords="830,105,70" href="#supermarkets" alt="Supermarkets" title="Supermarkets">
 </map>
+
 
 **Note: most places with an alcohol licence also provide food.**
 
@@ -84,7 +89,7 @@ title = "Sheffield"
 ### The Wave
 ![The Wave (source:hlmarchitects)](./../images/Site/Sheffield/Key-Places/The-Wave.webp)
 
-[More Information](./../pages/The-Wave/The-Wave.html)  
+[More Information](/venue)  
 [Back to Map](#map)
 
 ## Things to See
