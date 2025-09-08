@@ -13,15 +13,15 @@ We've got a jam-packed agenda of exciting talks lined up, see below for a full [
 
 | Time              | Activity                                                                                  |
 |-------------------|-------------------------------------------------------------------------------------------|
-| 10:00             | Tea / coffee / biscuits ☕️ Registration 📋                                               |
+| 10:00             | Registration 📋                                               |
 | 10:45 – 11:00     | Icebreaker 🧊🔨                                                                          |
 | 11:00 - 11:15     | Introductory talk from Delphine 🗣️                                                        |
 | 11:20 - 12:05     | Hackathon presentations 💻 5 min introduction, 40 mins for 4 team presentations           |
-| 12:05 - 12:25     | Break: Tea / coffee / biscuits 🫖                                                         |
+| 12:05 - 12:25     | Break 🫖                                                         |
 | 12:25 - 13:00     | Databricks Presentation 💾 Q&A session moderated by Charlotte Foster 📽              |
 | 13:00 - 13:45     | Lunch 🥪                                                                                  |
 | 13:45 - 14:45     | Escape room 🗝                                                                            |
-| 14:45 - 15:00     | Break: Tea / coffee / biscuits 🍪                                                             |
+| 14:45 - 15:00     | Break 🍪                                                             |
 | 15:00 - 15:20     | Talks on apprenticeships - Level 4 Data Analysis and Level 6 Data Science 📚           |
 | 15:20 - 16:00     | Delphine & Ian's L&D experience and journey 📈 General Q&A with both 🎙              |
 | 16:00             | Finish 🥲                                                                                 |
