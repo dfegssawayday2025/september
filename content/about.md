@@ -6,6 +6,13 @@ Welcome to our website containing lots of information on the 2025 DfE Statistics
 
 <div style="background-color:#9C1111;color:white;padding:2%;text-align:center;border-radius: 20px;">Lunch will not be supplied! Please see <a href="../food">the food page</a> for more information, including details on claiming expenses.</div>
 
+## What will I need to bring?
+
+1. You will not need to bring your laptop
+2. Food and drink (except water) are not allowed in the lecture theatre, so it may be worth bringing a bottle of water with you
+3. You may want to bring a notebook and pen for taking notes
+4. We will be using Mentimeter for interactive Q&A sessions, and we have a website and online escape room game, these will all be accessible from a phone, so having a charged phone with you will be useful
+
 ## Why Attend the GSS Away Day?
 
 > The GSS Away Day is a fantastic opportunity for statisticians across the Department for Education to come together, share ideas, and learn from one another. This year’s theme: “Innovating and Learning Together” couldn’t be more timely. As we continue to navigate complex challenges and embrace new tools (and promote Datacamp for everyone!), it’s vital that we create space to reflect, collaborate, and grow.
