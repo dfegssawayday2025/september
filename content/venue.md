@@ -24,6 +24,14 @@ title = "Venue"
 - [Accessibility Guides](https://www.accessable.co.uk/university-of-sheffield/access-guides/the-wave-building)
 - [The Wave Virtual Tour](https://spaces.wondavr.com/embed/?course=1db084d0-efda-11ed-ae80-2952e7b05428&presenter=true)
 
+### Map of the floor
+
+The awayday will be taking place on the ground floor in the wave building. Below is a map of the ground floor with the lecture theatre that we will spend most of the day in highlighted with a red arrow. 
+
+<div align="center">
+    <img src="../images/Site/map_wave.svg" alt="Map of the ground floor in the Wave building" style="width: 100%; display: block; margin: 0 auto;">
+</div>
+
 ## Getting to the venue
 
 There are a number of options available for travel to the venue.
