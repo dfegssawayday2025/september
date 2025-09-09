@@ -73,5 +73,5 @@ style = "github-dark"
   url  = "escape-room/"
 [[menu.main]]
   name = "Hackathon"
-  weight = 6
+  weight = 7
   url  = "hackathon/"
