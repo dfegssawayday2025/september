@@ -35,11 +35,37 @@ There are a number of nearby options for purchasing lunch, including the cafe in
 
 ## Places to Eat
 
+### For Lunch
+
+### Supermarkets
+
+You can find the location of nearby supermarkets [here](./../Sheffield.html#Map), which also includes supermarkets on the way from the station.
+
 ### The Wave Shop
 ![source:Sheffield University](./../images/Site/Sheffield/Food/wave-kitchen.jpg)
 
 [More Information](https://sheffield.ac.uk/cafesandbars/wave-kitchen)  
 [Back to Map](./../Sheffield.html#Map)
+
+### Thyme Cafe
+![source:welcometosheffield](./../images/Site/Sheffield/Food/Thyme-Cafe.jpg)
+
+[More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/thyme-cafe/)  
+[Back to Map](./../Sheffield.html#Map)
+
+### The Steel Cauldron
+![source:welcometosheffield](./../images/Site/Sheffield/Food/The-Steel-Cauldron.jpg)
+
+[More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/the-steel-cauldron/)  
+[Back to Map](./../Sheffield.html#Map)
+
+### The Nottingham
+![source:tripadvisor](./../images/Site/Sheffield/Pubs/Nottingham-House.jpg)
+(Also a place to drink).
+[More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/the-nottingham-house/)  
+[Back to Map](./../Sheffield.html#Map)
+
+## For Later
 
 ### Cambridge Street Collective
 ![source:welcometosheffield](./../images/Site/Sheffield/Food/Cambridge-Street-Collective.jpg)
@@ -51,18 +77,6 @@ There are a number of nearby options for purchasing lunch, including the cafe in
 ![source:welcometosheffield](./../images/Site/Sheffield/Food/Sheffield-Plate.jpg)
 
 [More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/sheffield-plate/)  
-[Back to Map](./../Sheffield.html#Map)
-
-### The Steel Cauldron
-![source:welcometosheffield](./../images/Site/Sheffield/Food/The-Steel-Cauldron.jpg)
-
-[More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/the-steel-cauldron/)  
-[Back to Map](./../Sheffield.html#Map)
-
-### Thyme Cafe
-![source:welcometosheffield](./../images/Site/Sheffield/Food/Thyme-Cafe.jpg)
-
-[More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/thyme-cafe/)  
 [Back to Map](./../Sheffield.html#Map)
 
 ### Ning's Thai Street Food
@@ -107,12 +121,6 @@ There are a number of nearby options for purchasing lunch, including the cafe in
 ![source:welcometosheffield](./../images/Site/Sheffield/Pubs/Sheffield-Tap.jpg)
 
 [More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/sheffield-tap/)  
-[Back to Map](./../Sheffield.html#Map)
-
-### The Nottingham
-![source:tripadvisor](./../images/Site/Sheffield/Pubs/Nottingham-House.jpg)
-
-[More Information](https://www.welcometosheffield.co.uk/content/food-drink-and-nightlife/the-nottingham-house/)  
 [Back to Map](./../Sheffield.html#Map)
 
 ### Dam House
